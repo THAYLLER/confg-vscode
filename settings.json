@@ -3,9 +3,8 @@
     "workbench.colorTheme": "Dracula",
     
       // Configura tamanho e família da fonte
-      "editor.fontSize": 18,
+      "editor.fontSize": 16,
       "editor.lineHeight": 24,
-      "editor.fontFamily": "Fira Code",
       "editor.fontLigatures": true,
       "explorer.compactFolders": false,
       
